@@ -88,8 +88,9 @@ To analyze and visualize real-world e-commerce performance metrics using Power B
 ## 📸 Sample Dashboard Screenshot
 
 Included in GitHub repo as: `ecommerce sales dashboard pdf’
--Report of dashbords
-- Raw data file
+
+- Report of dashbords
+- Raw data file source
 
 ---
 
